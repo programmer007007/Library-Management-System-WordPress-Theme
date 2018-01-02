@@ -1,7 +1,24 @@
 # Library Management System Using AngularJs & Wordpress
 <p>
-This project aims at developing the Library Management System where a user can login either as a student or a librarian. A student can view all the books or available books, sort the list of books search a book using any field. A librarian can sort as well as search like a student, and also has the ability to Issue a book, Return a book or Add a new book to the list. This project is based upon a JavaScript framework called AngularJS and implements most of the key features included in the Angular package along with PHP Wordpress Framework.
+This project aims at developing the Library Management System where a user can login either as a student or a librarian. A student can view all the books or available books, sort the list of books search a book using any parameters. A librarian can sort as well as search like a student, and also has the ability to Issue a book, Return a book or Add a new book to the list,here adding of books is made easier with the help of google book api.he can create students (i.e logins for students ) as well as issue library cards to them.Camera module is integrated to capture his pic for the library card.There is front end (HomePage) provided where all the students can see every books that are available in the library currently and can decide to visit it or not.There is also a module where any logged in student can request the librarian about any books he or his class needs.This project is based upon a JavaScript framework called AngularJS and implements most of the key features along with PHP Wordpress Framework.
 </p>
+<h3>Demo Link</h3>
+<a href="https://www.library-management.com">Library-Management.com</a>
+
+<h3>Login Details</h3>
+<table class="table table-bordered">
+				  <caption style="font-size: 17px;text-align: -webkit-center;"></caption>
+				  <tbody><tr>
+					<td><b>Admin Login : </b></td>
+					<td>admin</td>
+					<td>123456</td>
+				  </tr>
+				  <tr>
+					<td><b>Student Login : </b></td>
+					<td>shaobkhan@gmail.com	</td>
+					<td>9876543210</td>
+				  </tr>
+				  </tbody></table>
 
 <div>
                     <h2>Login</h2>
