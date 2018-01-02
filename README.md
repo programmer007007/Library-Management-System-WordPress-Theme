@@ -4,7 +4,7 @@ This project aims at developing the Library Management System where a user can l
 </p>
 <p>You can customise it to your likes.</p>
 <h3>Demo Link</h3>
-<a target="_blank" href="https://www.library-management.com">www.Library-Management.com</a>
+<a target="_blank" href="https://www.library-management.com">www.library-management.com</a>
 
 <h3>Login Details</h3>
 <table class="table table-bordered">
