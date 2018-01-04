@@ -36,7 +36,6 @@ This project aims at developing the Library Management System where a user can l
                     <h2>Add Books</h2>
                     <br>
                     <img src="https://www.library-management.com/screenshots/screenshot_addbooks.png" class="img-responsive" style="border: 1px solid lightgray;">                    
-                   
                     <br>
                     <h2>View All Books</h2>
                     <br>
