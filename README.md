@@ -24,7 +24,7 @@ This project aims at developing the Library Management System where a user can l
 <div>
                     <h2>Login</h2>
                     <br>
-                    <img src="https://www.library-management.com/screenshots/screenshot_login.pn" class="img-responsive" style="border: 1px solid lightgray;">
+                    <img src="https://www.library-management.com/screenshots/screenshot_login.png" class="img-responsive" style="border: 1px solid lightgray;">
                     <h2>Dashboard</h2>
                     <br>
                     <img src="https://www.library-management.com/screenshots/screenshot_dashboard.png" class="img-responsive" style="border: 1px solid lightgray;">
