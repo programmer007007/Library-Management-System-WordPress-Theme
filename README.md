@@ -44,7 +44,7 @@ This project aims at developing the Library Management System where a user can l
                     <h2>Deactivate Books (If Lost)</h2>
                     <h5>The numbers shown (it's the book id) needs to be written behind each books.Since its used to identify each books.No barcode feature is used since it can increase overall cost.</h5>
                     <br>
-                    <img src="https://www.library-management.com/screenshots/screenshot_activatedbooks.png?" class="img-responsive" style="border: 1px solid lightgray;">
+                    <img src="https://www.library-management.com/screenshots/screenshot_editbooks.png?" class="img-responsive" style="border: 1px solid lightgray;">
                     <br>
                     <h2>Manage Courses</h2>
                     <br>
