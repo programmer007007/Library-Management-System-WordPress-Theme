@@ -12,12 +12,12 @@ This project aims at developing the Library Management System where a user can l
 				  <tbody><tr>
 					<td><b>Admin Login : </b></td>
 					<td>admin</td>
-					<td>123456</td>
+					<td>1234567890</td>
 				  </tr>
 				  <tr>
 					<td><b>Student Login : </b></td>
-					<td>shaobkhan@gmail.com	</td>
-					<td>9876543210</td>
+					<td>tash@gmail.com</td>
+					<td>704-673-6700</td>
 				  </tr>
 				  </tbody></table>
 
@@ -80,6 +80,10 @@ This project aims at developing the Library Management System where a user can l
                     <br>
                     <img src="https://www.library-management.com/screenshots/screenshot_issuedbooks.png?" class="img-responsive" style="border: 1px solid lightgray;">
                     <br>
+	<h2>Added Custom Pages</h2>
+        <h4>Now you can add custom pages from our dashboard.</h4>
+        <img class="img-responsive" style="border: 1px solid lightgray; display: block;" src="https://www.library-management.com/screenshots/screenshots_custompage.png?">
+	<br>
                     <h2>Change Password</h2>
                     <br>
                     <img src="https://www.library-management.com/screenshots/screenshot_password.png?" class="img-responsive" style="border: 1px solid lightgray;">
