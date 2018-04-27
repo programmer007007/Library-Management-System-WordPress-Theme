@@ -124,4 +124,4 @@ This project aims at developing the Library Management System where a user can l
                     <img src="https://www.library-management.com/screenshots/screenshot_manage_fines.png?" class="img-responsive" style="border: 1px solid lightgray;">
                     <br>
                 </div>
-<p>College project for cse student,mca students,bsc-it students,bca students,be students,computer students can modify and use this software.Blackbook for library managment system can be found on the above given website.</p>
+
