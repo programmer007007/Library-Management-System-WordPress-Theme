@@ -4,7 +4,12 @@ This project aims at developing the Library Management System where a user can l
 </p>
 <p>You can customise it to your likes.</p>
 <h3>Demo Link</h3>
-<a target="_blank" href="https://wordpress.library-management.com/">wordpress.library-management.com</a>
+<a target="_blank" href="https://wordpress.library-management.com/">https://wordpress.library-management.com</a>
+
+<h3>Demo Link</h3>
+if you are looking for a MVC version which is far more advanced that the wordpress code you can check the below link.
+<a target="_blank" href="https://library-management.com/">https://library-management.com</a>
+
 
 <h3>Login Details</h3>
 <table class="table table-bordered">
